@@ -33,7 +33,7 @@ body {
 }
 
 .container__right {
-  margin-right: 5%;
+  margin-right: 3%;
   width: 25%;
 }
 .header {     
@@ -68,6 +68,7 @@ body {
 
 .card_conteudo_info {
   flex: 1px;
+  font-size: 10px;
   font-family: 'Jacques Francois', sans-serif;
   color: #474747;
   margin-left: 3%;
