@@ -36,6 +36,13 @@ body {
   margin-right: 3%;
   width: 25%;
 }
+
+@media only screen and (max-width: 720px) {
+  .container__left, .mid_left, .container__main, .container__right {
+    width: 100%;
+  }
+}
+
 .header {     
   text-align: center;
   font-family: 'Jacques Francois', sans-serif;
